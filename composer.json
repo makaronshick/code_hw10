@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Hillel\\": "./src"
+    }
+  },
+  "require": {
+    "illuminate/database": "^8.60",
+    "illuminate/events": "^8.60"
+  }
+}
